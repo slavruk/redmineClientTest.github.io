@@ -3,7 +3,7 @@
         "apps": [],
         "details": [{
             "appID": "3MRVNF9JLY.com.mifprojects.redmineapplication",
-            "paths": ["/path-for-redirectionl/*"]
+            "paths": ["*"]
         }]
     }
   "webcredentials": {
