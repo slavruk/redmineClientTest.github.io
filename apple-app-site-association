@@ -1,11 +1,5 @@
 {
-    "applinks": {
-        "apps": [],
-        "webcredentials": [
-            {
-                "appID": "3MRVNF9JLY.com.mifprojects.redmineapplication",
-                "paths": [ "*" ]
-            }
-        ]
+   "webcredentials": {
+       "apps": ["3MRVNF9JLY.com.mifprojects.redmineapplication"]
     }
 }
