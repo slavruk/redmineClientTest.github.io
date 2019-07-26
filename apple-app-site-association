@@ -1,7 +1,7 @@
 {
     "applinks": {
         "apps": [],
-        "details": [
+        "webcredentials": [
             {
                 "appID": "3MRVNF9JLY.com.mifprojects.redmineapplication",
                 "paths": [ "*" ]
