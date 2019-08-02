@@ -1,0 +1,12 @@
+{
+  "applinks": {
+        "apps": [],
+        "details": [{
+            "appID": "92RL8H23NJ.com.mifprojects.redmineapplication",
+            "paths": ["*"]
+        }]
+    }
+  "webcredentials": {
+     "apps": ["92RL8H23NJ.com.mifprojects.redmineapplication"]
+  }
+}
